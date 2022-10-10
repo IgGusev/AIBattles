@@ -1,0 +1,32 @@
+{
+    "displayName": "SUGARFACTORY",
+    "fluxCapacitors": 35,
+    "fluxVents": 50,
+    "goalVariant": true,
+    "hullId": "edshipyard_wurgandal",
+    "hullMods": [
+        "advancedshieldemitter",
+        "extendedshieldemitter",
+        "hardenedshieldemitter",
+        "vic_PDArcEmitter",
+        "hardened_subsystems",
+        "unstable_injector"
+    ],
+    "modules": [
+        {"BACK": "666_wurg_buttocks_0"},
+        {"HANGAR_LEFT": "666_wurg_hangarleft_1"},
+        {"HANGAR_RIGHT": "666_wurg_hangarright_2"},
+        {"JAW_LEFT": "666_wurg_jawleft_3"},
+        {"JAW_RIGHT": "666_wurg_jawright_4"},
+        {"WEAPON_LEFT": "666_wurg_weaponleft_5"},
+        {"WEAPON_RIGHT": "666_wurg_weaponright_6"}
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "666_wurgandal_worldeater",
+    "weaponGroups": [{
+        "autofire": false,
+        "mode": "LINKED",
+        "weapons": {"MAW": "edshipyard_MAW"}
+    }]
+}

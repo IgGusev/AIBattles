@@ -1,0 +1,58 @@
+{
+    "displayName": "Rescue",
+    "fluxCapacitors": 3,
+    "fluxVents": 50,
+    "goalVariant": true,
+    "hullId": "edshipyard_retriever",
+    "hullMods": [
+        "pointdefenseai",
+        "targetingunit",
+        "vic_PDArcEmitter"
+    ],
+    "modules": [
+        {"SHIELD": "edshipyard_retriever_shield_variant"},
+        {"DRONER": "edshipyard_retriever_control_rescue"},
+        {"DRONEL": "edshipyard_retriever_control_rescue"}
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "666_retriever_rescue",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "edshipyard_Rad_m",
+                "WS0002": "edshipyard_Rad_m",
+                "WS0007": "edshipyard_Rad_m",
+                "WS0008": "edshipyard_Rad_m"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "diableavionics_lazyhorn",
+                "WS0004": "diableavionics_lazyhorn",
+                "WS0005": "diableavionics_lazyhorn",
+                "WS0006": "diableavionics_lazyhorn"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0009": "edshipyard_Wisp_Launcher",
+                "WS0010": "edshipyard_Wisp_Launcher",
+                "WS0012": "edshipyard_Wisp_Launcher",
+                "WS0013": "edshipyard_Wisp_Launcher",
+                "WS0014": "edshipyard_Wisp_Launcher",
+                "WS0015": "edshipyard_Wisp_Launcher",
+                "WS0016": "edshipyard_Wisp_Launcher",
+                "WS0017": "edshipyard_Wisp_Launcher",
+                "WS0018": "edshipyard_Wisp_Launcher"
+            }
+        }
+    ],
+    "wings": []
+}

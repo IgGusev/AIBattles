@@ -1,0 +1,54 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 0,
+    "fluxVents": 13,
+    "hullId": "enforcer_xiv",
+    "hullMods": [
+        "converted_hangar",
+        "safetyoverrides",
+        "pointdefenseai"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "1_enforcer_xiv_so",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 006": "reaper",
+                "WS 007": "reaper"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 008": "reaper",
+                "WS 009": "reaper"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "flak",
+                "WS 005": "flak"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "heavymg",
+                "WS 004": "heavymg"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 003": "chaingun"}
+        }
+    ],
+    "wings": ["mining_drone_wing"]
+}

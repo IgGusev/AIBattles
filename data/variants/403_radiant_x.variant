@@ -1,0 +1,42 @@
+{
+    "displayName": "Pretty Explosions",
+    "fluxCapacitors": 29,
+    "fluxVents": 0,
+    "hullId": "mess_radiant",
+    "hullMods": [
+        "npcsc_alwaysregroup",
+        "hardenedshieldemitter",
+        "missleracks",
+        "advancedshieldemitter",
+        "eccm"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "403_radiant_x",
+    "weaponGroups": [{
+        "autofire": false,
+        "mode": "LINKED",
+        "weapons": {
+            "WS 000": "locust",
+            "WS 001": "locust",
+            "WS 002": "cyclone",
+            "WS 003": "rifttorpedo",
+            "WS 004": "cyclone",
+            "WS 005": "sabotpod",
+            "WS 006": "annihilatorpod",
+            "WS 007": "annihilatorpod",
+            "WS 008": "sabotpod",
+            "WS 009": "seth_sml",
+            "WS 010": "seth_sml",
+            "WS 011": "mininglaser",
+            "WS 012": "annihilator",
+            "WS 013": "annihilator",
+            "WS 014": "annihilator",
+            "WS 015": "annihilator",
+            "WS 016": "seth_sml",
+            "WS 017": "seth_sml",
+            "WS 018": "seth_sml"
+        }
+    }],
+    "wings": []
+}

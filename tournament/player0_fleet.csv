@@ -1,0 +1,103 @@
+"wave","defaultPersonality","variantID",shipName,"side"
+
+#wave: when it is spawned
+#defaultPersonality: Mandatory default personality of the ship, overwritten by officers, can be "timid", "cautious", "steady", "aggressive", "reckless"
+#variantID: The full ship variant or wing name, remember to prefix them to avoid name conflicts
+#side: TOP, TOP, LEFT, RIGHT, BOSS
+#DO NOT RENAME THIS FILE, DO NOT CHANGE THE TOP LINE.
+
+#WAVE 1.
+1,reckless,0_falcon_p_vayra,VW Hadhoyosh,TOP
+1,reckless,0_falcon_p_vayra,VW Triumph of CVII,TOP
+1,reckless,0_falcon_p_vayra,VW Miriam's Reprise,TOP
+1,reckless,0_falcon_p_vayra,VW Magister,TOP
+1,reckless,0_falcon_p_vayra,VW Risky,TOP
+1,reckless,0_falcon_p_vayra,VW Defiant,TOP
+1,reckless,0_falcon_p_vayra,VW Kanta's Boot,TOP
+1,reckless,0_falcon_p_vayra,VW Imposter,TOP
+1,reckless,0_omen_vayra,VW Starbreaker,TOP
+1,reckless,0_omen_vayra,VW Cuicoatl,TOP
+1,reckless,0_omen_vayra,VW Amon Rot,TOP
+1,reckless,0_omen_vayra,VW Thetis,TOP
+1,reckless,0_omen_vayra,VW Imposter2,TOP
+1,reckless,0_omen_vayra,VW Imposter3,TOP
+
+#WAVE 2.
+2,timid,0_ziz_ke,SQD Ziz Nuts,BOTTOM
+2,timid,0_ziz_ke,SQD Wacha doin Stepziz?,BOTTOM
+2,aggressive,0_sunbird_fireall,SQD Praise the Sunbird,BOTTOM
+2,aggressive,0_sunbird_fireall,SQD Flipping the Sunbird,BOTTOM
+2,aggressive,0_sunbird_he,SQD Sunbird Up,BOTTOM
+2,aggressive,0_sunbird_he,SQD Sunbird Down,BOTTOM
+2,aggressive,0_sunbird_fireall,SQD Blackhole Sunbird,BOTTOM
+2,aggressive,0_sunbird_fireall,SQD Spammingjay,BOTTOM
+2,aggressive,0_sunbird_he,SQD Sunbirb,BOTTOM
+2,aggressive,0_sunbird_he,SQD Deadly Lazer,BOTTOM
+2,aggressive,0_sunbird_he,SQD Sunbird is the Word,BOTTOM
+2,aggressive,0_sunbird_he,SQD Freebird,BOTTOM
+2,aggressive,0_sunbird_he,SQD Caged Sunbird,BOTTOM
+2,timid,0_hyena_ke,SQD,BOTTOM
+2,timid,0_hyena_ke,SQD,BOTTOM
+2,timid,0_hyena_ke,SQD,BOTTOM
+2,timid,0_hyena_ke,SQD,BOTTOM
+2,timid,0_hyena_ke,SQD,BOTTOM
+2,timid,0_hyena_ke,SQD,BOTTOM
+
+#WAVE 3.
+3,aggressive,0_buffalo_xiv,Nani Vladimir,BOTTOM
+3,aggressive,0_buffalo_xiv,Nani Vigo,BOTTOM
+3,aggressive,0_buffalo_xiv,Nani Blackheist,BOTTOM
+3,aggressive,0_buffalo_xiv,Nani Spiritual Energy,BOTTOM
+3,aggressive,0_buffalo_xiv,Nani Macha,BOTTOM
+3,aggressive,0_buffalo_xiv,Nani Amycus,BOTTOM
+3,aggressive,0_buffalo_xiv,Nani Humble Submission,BOTTOM
+3,aggressive,0_buffalo_xiv,Nani Eunyotus,BOTTOM
+3,aggressive,0_buffalo_xiv,Nani Muninn,BOTTOM
+3,aggressive,0_buffalo_xiv,Nani Nitam,BOTTOM
+3,aggressive,0_buffalo_xiv,Nani Weft My Heawt on Maxios,BOTTOM
+3,aggressive,0_buffalo_xiv,Nani Universal Solvent,BOTTOM
+3,aggressive,0_buffalo_xiv,Nani Cawydon,BOTTOM
+3,aggressive,0_buffalo_xiv,Nani Gavril,BOTTOM
+3,aggressive,0_buffalo_xiv,Nani Deschaineux,BOTTOM
+3,aggressive,0_buffalo_xiv,Nani Canning,BOTTOM
+3,aggressive,0_buffalo_xiv,Nani Porto,BOTTOM
+3,aggressive,0_buffalo_xiv,Nani Dubbo,BOTTOM
+3,aggressive,0_buffalo_xiv,Nani Mayford,BOTTOM
+3,aggressive,0_buffalo_xiv,Nani Revolutionary Struggle,BOTTOM
+3,aggressive,0_buffalo_xiv,Nani Moon,BOTTOM
+#3,aggressive,0_buffalo_xiv,Nani Homeward Bound,BOTTOM
+#3,aggressive,0_buffalo_xiv,Nani Thruster,BOTTOM
+
+#3,aggressive,0_buffalo_xiv,Nani General Abercrombie,BOTTOM
+#3,aggressive,0_buffalo_xiv,Nani Assam,BOTTOM
+#3,aggressive,0_buffalo_xiv,Nani Momus,BOTTOM
+#3,aggressive,0_buffalo_xiv,Nani XuZhou,BOTTOM
+#3,aggressive,0_buffalo_xiv,Nani Changdu,BOTTOM
+#3,aggressive,0_buffalo_xiv,Nani Empire Breaker,BOTTOM
+#3,aggressive,0_buffalo_xiv,Nani Universal Absolvent,BOTTOM
+#3,aggressive,0_buffalo_xiv,Nani Away Our Sorrow,BOTTOM
+
+#3,aggressive,0_buffalo_xiv,Nani Claverhouse,BOTTOM
+#2,aggressive,0_buffalo_xiv,Nani Courier,BOTTOM
+
+#WAVE 4.
+4,reckless,403_aureole_x,T-5000,TOP
+4,reckless,403_radiant_flagship,HAL9000,TOP
+4,reckless,403_radiant_x,Dolores,TOP
+4,reckless,403_aureole_x,Number Six,TOP
+4,reckless,403_aureole_x,WALL-E,TOP
+#4,reckless,403_ecstacy_x,ED-209,TOP
+#4,reckless,403_ecstacy_x,GLaDOS,TOP
+
+#WAVE 5.
+#1,reckless,0_monitor_ark,This is going down,BOTTOM
+#1,reckless,0_monitor_ark,in history,BOTTOM
+5,aggressive,0_lurker_ark,Now listen closely,BOTTOM
+#1,aggressive,0_lurker_ark,Now listen closely,BOTTOM
+5,steady,0_legion_ark,Here's a little lesson,BOTTOM
+5,steady,0_legion_ark,in trickery,BOTTOM
+5,reckless,0_monitor_ark,This is going down,BOTTOM
+5,reckless,0_monitor_ark,in history,BOTTOM
+5,cautious,0_era_ark,If you wanna be,BOTTOM
+5,cautious,0_era_ark,a Villain Number One,BOTTOM
+#5,cautious,0_era_ark,a Villain Number One,BOTTOM

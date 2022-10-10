@@ -1,0 +1,73 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 14,
+    "fluxVents": 50,
+    "hullId": "LTA_Consigliere",
+    "hullMods": [
+        "targetingunit",
+        "heavyarmor",
+        "pointdefenseai"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "3_Consigliere_Wasp",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0021": "edshipyard_GS3"}
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0009": "LTA_talonrailautomatednixie",
+                "WS0010": "LTA_talonrailautomatednixie"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0005": "med_frag_mg",
+                "WS0006": "med_frag_mg"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "hveldriver",
+                "WS0004": "hveldriver",
+                "WS0011": "hveldriver",
+                "WS0012": "hveldriver"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0013": "swp_flaregun",
+                "WS0014": "swp_flaregun"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "flak",
+                "WS0002": "flak",
+                "WS0007": "flak",
+                "WS0008": "flak",
+                "WS0015": "vulcan",
+                "WS0016": "vulcan",
+                "WS0017": "vulcan",
+                "WS0018": "vulcan"
+            }
+        }
+    ],
+    "wings": [
+        "wasp_wing",
+        "wasp_wing"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "displayName": "Champinion",
+    "fluxCapacitors": 16,
+    "fluxVents": 10,
+    "hullId": "champion",
+    "hullMods": [
+        "targetingunit",
+        "pointdefenseai",
+        "advancedoptics",
+        "magazines"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "champinion",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "diableavionics_winee",
+                "WS 001": "diableavionics_winee"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 009": "squall"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 010": "irpulse",
+                "WS 011": "irpulse"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 008": "guardian"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "mininglaser",
+                "WS 005": "mininglaser",
+                "WS 007": "heavyburst"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 006": "diableavionics_lazyhorn"}
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "displayName": "[[Hyperlink Blocked]]",
+    "fluxCapacitors": 2,
+    "fluxVents": 0,
+    "hullId": "LTA_Epattcudxxvi",
+    "hullMods": [
+        "missleracks",
+        "eccm"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "1997_LTA_Epattcudxxvi_[[Hyperlink_Blocked]]",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0003": "LTA_snapcrackergunshipL"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0001": "diableavionics_magicbox"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0002": "LTA_vulcansingle"}
+        }
+    ]
+}

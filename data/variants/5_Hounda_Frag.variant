@@ -1,0 +1,23 @@
+{
+    "displayName": "Fragging",
+    "fluxCapacitors": 5,
+    "fluxVents": 10,
+    "hullId": "hound_hegemony",
+    "hullMods": [
+        "turretgyros",
+        "pointdefenseai",
+        "reinforcedhull",
+        "fluxbreakers"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "5_Hounda_Frag",
+    "weaponGroups": [{
+        "autofire": true,
+        "mode": "LINKED",
+        "weapons": {
+            "WS 001": "shredder",
+            "WS 002": "SCY_minigun1"
+        }
+    }]
+}

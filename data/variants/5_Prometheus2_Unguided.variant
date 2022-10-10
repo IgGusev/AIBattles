@@ -1,0 +1,53 @@
+{
+    "displayName": "Unguided",
+    "fluxCapacitors": 31,
+    "fluxVents": 50,
+    "hullId": "prometheus2",
+    "hullMods": ["targetingunit"],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "5_Prometheus2_Unguided",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 031": "mark9"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 019": "swp_trebuchet"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 004": "vic_gagana"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 005": "vic_gagana"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 032": "guardian"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "vulcan",
+                "WS 003": "vulcan",
+                "WS 006": "vulcan",
+                "WS 012": "vulcan",
+                "WS 013": "vulcan",
+                "WS 015": "vulcan"
+            }
+        }
+    ],
+    "wings": [
+        "longbow_wing",
+        "longbow_wing"
+    ]
+}

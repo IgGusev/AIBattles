@@ -1,0 +1,31 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 1,
+    "fluxVents": 20,
+    "hullId": "edshipyard_shiba",
+    "hullMods": [
+        "heavyarmor",
+        "hardened_subsystems",
+        "reinforcedhull"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "3_Shiba_Armoured",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0001": "diableavionics_artdeux"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0002": "SCY_kacc2"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"BuiltIn": "edshipyard_wizard"}
+        }
+    ]
+}

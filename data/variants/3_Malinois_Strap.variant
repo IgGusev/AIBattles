@@ -1,0 +1,40 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 18,
+    "fluxVents": 20,
+    "hullId": "edshipyard_malinois",
+    "hullMods": [],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "3_Malinois_Strap",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0004": "diableavionics_srab"}
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0005": "LTA_nixiemissilemedium",
+                "WS0006": "LTA_nixiemissilemedium"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "burst_ml",
+                "WS0002": "pdlaser",
+                "WS0003": "pdlaser"
+            }
+        }
+    ],
+    "wings": [
+        "CWSP_strap_wing",
+        "CWSP_strap_wing",
+        "CWSP_strap_wing",
+        "CWSP_strap_wing"
+    ]
+}

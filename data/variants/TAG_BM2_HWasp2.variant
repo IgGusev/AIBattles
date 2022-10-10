@@ -1,0 +1,32 @@
+{
+    "displayName": "Beees?",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+    "hullId": "buffalo2",
+    "hullMods": [
+        "missleracks",
+        "converted_hangar",
+        "frontshield",
+        "eccm"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "TAG_BM2_HWasp2",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 008": "harpoonpod"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "harpoon",
+                "WS 005": "harpoon",
+                "WS 006": "harpoon"
+            }
+        }
+    ],
+    "wings": ["wasp_wing"]
+}

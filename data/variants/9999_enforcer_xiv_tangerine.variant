@@ -1,0 +1,47 @@
+{
+    "displayName": "Tangerine",
+    "fluxCapacitors": 10,
+    "fluxVents": 20,
+    "hullId": "enforcer_xiv",
+    "hullMods": [
+        "converted_hangar",
+        "fluxdistributor"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "9999_enforcer_xiv_tangerine",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "med_frag_mg",
+                "WS 004": "med_frag_mg"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 006": "diableavionics_magicbox",
+                "WS 007": "diableavionics_magicbox",
+                "WS 008": "diableavionics_magicbox",
+                "WS 009": "diableavionics_magicbox"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 003": "vic_psotnikmed"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "flak",
+                "WS 005": "flak"
+            }
+        }
+    ],
+    "wings": ["SCY_eris_wing"]
+}

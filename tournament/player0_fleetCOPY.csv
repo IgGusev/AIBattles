@@ -1,0 +1,100 @@
+"wave","defaultPersonality","variantID",shipName,"side"
+
+#wave: when it is spawned
+#defaultPersonality: Mandatory default personality of the ship, overwritten by officers, can be "timid", "cautious", "steady", "aggressive", "reckless"
+#variantID: The full ship variant or wing name, remember to prefix them to avoid name conflicts
+#side: TOP, BOTTOM, LEFT, RIGHT, BOSS
+#DO NOT RENAME THIS FILE, DO NOT CHANGE THE TOP LINE.
+
+#WAVE 1.
+1,aggressive,gryphon_FS,Test,TOP
+1,aggressive,gryphon_FS,Test,TOP
+1,aggressive,gryphon_FS,Test,TOP
+1,aggressive,gryphon_FS,Test,TOP
+1,aggressive,gryphon_FS,Test,TOP
+1,aggressive,gryphon_FS,Test,TOP
+1,aggressive,gryphon_FS,Test,TOP
+1,aggressive,vigilance_FS,Test,TOP
+1,aggressive,vigilance_FS,Test,TOP
+1,aggressive,vigilance_FS,Test,TOP
+1,aggressive,vigilance_FS,Test,TOP
+1,aggressive,vigilance_FS,Test,TOP
+1,aggressive,vigilance_FS,Test,TOP
+1,aggressive,vigilance_FS,Test,TOP
+1,aggressive,vigilance_FS,Test,TOP
+
+#WAVE 2.
+2,reckless,odyssey_Balanced,Test,BOTTOM
+2,reckless,odyssey_Balanced,Test,BOTTOM
+2,reckless,doom_Strike,Test,BOTTOM
+2,reckless,doom_Strike,Test,BOTTOM
+2,reckless,venture_Outdated,Test,BOTTOM
+2,reckless,venture_Outdated,Test,BOTTOM
+2,reckless,venture_Outdated,Test,BOTTOM
+2,reckless,venture_Outdated,Test,BOTTOM
+2,reckless,venture_Outdated,Test,BOTTOM
+2,reckless,venture_Outdated,Test,BOTTOM
+2,aggressive,mercury_FS,Test,BOTTOM
+2,aggressive,mercury_FS,Test,BOTTOM
+2,aggressive,mercury_FS,Test,BOTTOM
+2,aggressive,mercury_FS,Test,BOTTOM
+
+#WAVE 3.
+3,reckless,legion_xiv_Elite,Test,TOP
+3,reckless,legion_xiv_Elite,Test,TOP
+3,reckless,legion_xiv_Elite,Test,TOP
+3,reckless,legion_xiv_Elite,Test,TOP
+3,steady,kite_hegemony_Interceptor,Test,TOP
+3,steady,kite_hegemony_Interceptor,Test,TOP
+3,steady,kite_hegemony_Interceptor,Test,TOP
+3,steady,kite_hegemony_Interceptor,Test,TOP
+3,timid,buffalo2_Fighter_Support,Test,TOP
+3,timid,buffalo2_Fighter_Support,Test,TOP
+3,timid,buffalo2_Fighter_Support,Test,TOP
+3,timid,buffalo2_Fighter_Support,Test,TOP
+3,timid,buffalo2_Fighter_Support,Test,TOP
+3,timid,buffalo2_Fighter_Support,Test,TOP
+3,timid,buffalo2_Fighter_Support,Test,TOP
+3,timid,buffalo2_Fighter_Support,Test,TOP
+
+
+
+#WAVE 4.
+4,steady,astral_Strike,Test,TOP
+4,steady,astral_Strike,Test,TOP
+4,steady,astral_Strike,Test,TOP
+4,aggressive,shrike_Attack,Test,TOP
+4,aggressive,shrike_Attack,Test,TOP
+4,aggressive,shrike_Attack,Test,TOP
+4,aggressive,shrike_Attack,Test,TOP
+4,aggressive,shrike_Attack,Test,TOP
+4,aggressive,shrike_Attack,Test,TOP
+4,aggressive,shrike_Attack,Test,TOP
+4,aggressive,shrike_Attack,Test,TOP
+4,reckless,monitor_Starting,Test,TOP
+4,reckless,monitor_Starting,Test,TOP
+4,reckless,monitor_Starting,Test,TOP
+4,reckless,monitor_Starting,Test,TOP
+
+#WAVE 5
+5,reckless,atlas2_Standard,Test,BOTTOM
+5,reckless,atlas2_Standard,Test,BOTTOM
+5,reckless,atlas2_Standard,Test,BOTTOM
+5,reckless,atlas2_Standard,Test,BOTTOM
+5,reckless,atlas2_Standard,Test,BOTTOM
+5,reckless,atlas2_Standard,Test,BOTTOM
+5,reckless,atlas2_Standard,Test,BOTTOM
+5,reckless,atlas2_Standard,Test,BOTTOM
+5,reckless,falcon_p_Strike,Test,BOTTOM
+5,reckless,falcon_p_Strike,Test,BOTTOM
+5,reckless,falcon_p_Strike,Test,BOTTOM
+5,reckless,falcon_p_Strike,Test,BOTTOM
+5,reckless,falcon_p_Strike,Test,BOTTOM
+5,reckless,falcon_p_Strike,Test,BOTTOM
+5,reckless,shade_d_pirates_Assault,Test,BOTTOM
+5,reckless,shade_d_pirates_Assault,Test,BOTTOM
+5,reckless,shade_d_pirates_Assault,Test,BOTTOM
+5,reckless,shade_d_pirates_Assault,Test,BOTTOM
+
+#WAVE 6
+6,reckless,paragon_Elite,Test,TOP

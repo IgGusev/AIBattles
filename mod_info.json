@@ -1,0 +1,14 @@
+{
+    "id": "aibattles",
+    "name": "AI Battles",
+    "author": "Tartiflette based on Dark.Revenant's mission. Modifications by Thaago and Rubi.",
+    "version": "13.0",
+    "description": "AI fleets battle Tournaments",
+    "gameVersion": "0.95a-RC15",
+	"jars":["jars/AI.jar"],
+	"modPlugin":"data.missions.scripts.AI_ModPlugin",
+	"replace":[
+		"data/weapons/proj/sabot_warhead2.proj",
+		"data/weapons/proj/sabot_srm.proj",
+		]
+}

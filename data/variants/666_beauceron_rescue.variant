@@ -1,0 +1,23 @@
+{
+    "displayName": "Rescue",
+    "fluxCapacitors": 0,
+    "fluxVents": 28,
+    "goalVariant": true,
+    "hullId": "edshipyard_beauceron",
+    "hullMods": ["safetyoverrides"],
+    "modules": [{"DRONE": "edshipyard_retriever_control_rescue"}],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "666_beauceron_rescue",
+    "weaponGroups": [{
+        "autofire": true,
+        "mode": "LINKED",
+        "weapons": {
+            "WS0001": "diableavionics_lazyhorn",
+            "WS0004": "diableavionics_lazyhorn",
+            "WS0005": "diableavionics_lazyhorn",
+            "WS0006": "diableavionics_lazyhorn"
+        }
+    }],
+    "wings": ["mining_drone_wing"]
+}

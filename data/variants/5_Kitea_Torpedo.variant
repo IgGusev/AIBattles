@@ -1,0 +1,30 @@
+{
+    "displayName": "Ravaging",
+    "fluxCapacitors": 6,
+    "fluxVents": 2,
+    "hullId": "kite_hegemony",
+    "hullMods": [
+        "eccm",
+        "missleracks"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "5_Kitea_Torpedo",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 001": "drg_tawa_rack"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 002": "atropos"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 003": "diableavionics_ibis"}
+        }
+    ]
+}

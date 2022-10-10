@@ -1,0 +1,41 @@
+{
+    "displayName": "Exploration",
+    "fluxCapacitors": 29,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "filgap_era_lc",
+    "hullMods": [
+        "eccm",
+        "ugh_thrushwarheads"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "0_era_ark",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "swp_reliant",
+                "WS0004": "SCY_intercept"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "SCY_intercept",
+                "WS0002": "swp_reliant",
+                "WS0005": "filgap_ion_torpedo",
+                "WS0006": "filgap_ion_torpedo",
+                "WS0007": "filgap_ion_torpedo_single",
+                "WS0008": "filgap_ion_torpedo_single",
+                "WS0010": "filgap_ion_torpedo"
+            }
+        }
+    ],
+    "wings": [
+        "scandunt_mess_wing",
+        "edshipyard_terrier_wing"
+    ]
+}

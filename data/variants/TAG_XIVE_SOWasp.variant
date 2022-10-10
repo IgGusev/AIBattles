@@ -1,0 +1,54 @@
+{
+    "displayName": "Murder Beeball",
+    "fluxCapacitors": 9,
+    "fluxVents": 4,
+    "hullId": "enforcer_xiv",
+    "hullMods": [
+        "safetyoverrides",
+        "pointdefenseai",
+        "converted_hangar"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "TAG_XIVE_SOWasp",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 006": "reaper",
+                "WS 007": "reaper"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 008": "reaper",
+                "WS 009": "reaper"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 003": "chaingun"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "heavymg",
+                "WS 004": "heavymg"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "vulcan",
+                "WS 005": "vulcan"
+            }
+        }
+    ],
+    "wings": ["wasp_wing"]
+}

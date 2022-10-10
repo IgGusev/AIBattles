@@ -1,0 +1,28 @@
+{
+    "displayName": "Survival",
+    "fluxCapacitors": 10,
+    "fluxVents": 7,
+    "goalVariant": true,
+    "hullId": "omen",
+    "hullMods": [
+        "hardenedshieldemitter",
+        "targetingunit",
+        "fluxbreakers",
+        "pointdefenseai"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "TAG_Omen_Survive",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 001": "irpulse"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 003": "reaper"}
+        }
+    ]
+}

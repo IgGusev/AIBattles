@@ -1,0 +1,50 @@
+{
+    "displayName": "Assault",
+    "fluxCapacitors": 0,
+    "fluxVents": 10,
+    "goalVariant": true,
+    "hullId": "centurion",
+    "hullMods": [
+        "vic_PDArcEmitter",
+        "hardened_subsystems",
+        "fluxdistributor"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "666_centurion_Assault",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 003": "LTA_nixiemissilesmall"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "edshipyard_Wisp_Launcher",
+                "WS 007": "edshipyard_Wisp_Launcher"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 002": "edshipyard_GS1"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 001": "edshipyard_SC0"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 004": "lightneedler"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 005": "lightneedler"}
+        }
+    ]
+}

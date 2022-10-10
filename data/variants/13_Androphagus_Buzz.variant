@@ -1,0 +1,32 @@
+{
+    "hullId": "SCY_manticore",
+    "fluxCapacitors": 3,
+    "weaponGroups": [
+        {
+            "mode": "LINKED",
+            "autofire": true,
+            "weapons": {
+                "WS0003": "pdburst",
+                "WS0002": "pdburst",
+                "WS0004": "pdburst"
+            }
+        },
+        {
+            "mode": "LINKED",
+            "autofire": false,
+            "weapons": {"WS0001": "drg_fissure"}
+        }
+    ],
+    "displayName": "Escort",
+    "wings": [
+        "swp_falx_wing",
+        "wasp_wing",
+        "swp_falx_wing"
+    ],
+    "fluxVents": 0,
+    "hullMods": ["expanded_deck_crew"],
+    "permaMods": [],
+    "variantId": "13_Androphagus_Buzz",
+    "goalVariant": true,
+    "sMods": []
+}

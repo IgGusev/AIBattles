@@ -1,0 +1,28 @@
+{
+    "displayName": "Shields Don't matter",
+    "fluxCapacitors": 3,
+    "fluxVents": 0,
+    "hullId": "kite_hegemony",
+    "hullMods": [
+        "eccm",
+        "missleracks"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "5_Kitea_Ion",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 003": "diableavionics_ibis"}
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 001": "swp_iontorpedo",
+                "WS 002": "diableavionics_thunderboltsmall"
+            }
+        }
+    ]
+}

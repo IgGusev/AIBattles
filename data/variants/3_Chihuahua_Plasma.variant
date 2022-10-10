@@ -1,0 +1,25 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 0,
+    "fluxVents": 7,
+    "hullId": "edshipyard_chihuahua",
+    "hullMods": [
+        "heavyarmor",
+        "reinforcedhull"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "3_Chihuahua_Plasma",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"Hidden001": "drg_tpr_m"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0002": "edshipyard_Plink"}
+        }
+    ]
+}

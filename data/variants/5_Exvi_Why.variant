@@ -1,0 +1,32 @@
+{
+    "displayName": "Why",
+    "fluxCapacitors": 3,
+    "fluxVents": 0,
+    "hullId": "LTA_Epattcudxvi",
+    "hullMods": ["phase_anchor"],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "5_Exvi_Why",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0002": "drg_alecto"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0004": "LTA_nixiemissilesmall"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0003": "lightneedler"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0001": "edshipyard_SC1"}
+        }
+    ]
+}

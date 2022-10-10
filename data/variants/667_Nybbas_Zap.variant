@@ -1,0 +1,20 @@
+{
+    "displayName": "Moth",
+    "fluxCapacitors": 10,
+    "fluxVents": 2,
+    "hullId": "vic_nybbas",
+    "hullMods": [
+        "hardened_subsystems",
+        "targetingunit",
+        "armoredweapons",
+        "insulatedengine"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "667_Nybbas_Zap",
+    "weaponGroups": [{
+        "autofire": false,
+        "mode": "LINKED",
+        "weapons": {"WS0002t": "vic_capacitonsDischarger"}
+    }]
+}

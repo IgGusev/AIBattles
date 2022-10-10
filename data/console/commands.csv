@@ -1,0 +1,12 @@
+command,class,tags,syntax,help
+FreeCam,data.console.commands.FreeCam,"combat",freecam,"Enable ""Free Cam"" modes as well as limited time controls.
+
+Press CTRL to switch between free cam modes.
+Press ALT to revert to the default camera.
+
+In Free Cam mode:
+ZOOM is controlled by the LEFT and RIGHT CLICKS.
+Hold SPACE to slow time down.
+Hold SHIFT to speed time up."
+AiStatus,data.console.commands.AiStatus,"combat",aistatus,"Log a series of informations about all the ships' AI to troubleshoot the Tournament's AI shutdown issue."
+TargetAiStatus,data.console.commands.TargetAiStatus,"combat",targetstatus,"Log a series of informations about a targeted ship's AI to troubleshoot the Tournament's AI shutdown issue."

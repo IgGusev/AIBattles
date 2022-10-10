@@ -1,0 +1,36 @@
+{
+    "displayName": "POPROCK",
+    "fluxCapacitors": 0,
+    "fluxVents": 7,
+    "hullId": "drg_iris_iv",
+    "hullMods": [
+        "safetyoverrides",
+        "pointdefenseai"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "666_iris_iv",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0001": "drg_arc_l"}
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0004": "LTA_nixiemissilesmall",
+                "WS0005": "LTA_nixiemissilesmall"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0002": "edshipyard_Wisp_Launcher",
+                "WS0003": "edshipyard_Wisp_Launcher"
+            }
+        }
+    ]
+}

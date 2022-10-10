@@ -1,0 +1,53 @@
+{
+    "displayName": "Right",
+    "fluxCapacitors": 0,
+    "fluxVents": 5,
+    "goalVariant": true,
+    "hullId": "edshipyard_wurg_hangarright",
+    "hullMods": [
+        "vic_PDArcEmitter",
+        "hardened_subsystems"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "666_wurg_hangarright_2",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0001": "LTA_nixiemissilesmall"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0002": "LTA_nixiemissilesmall"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0003": "LTA_nixiemissilesmall"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0004": "LTA_nixiemissilesmall"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0005": "LTA_nixiemissilesmall"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0006": "LTA_nixiemissilesmall"}
+        }
+    ],
+    "wings": [
+        "edshipyard_affenpinscher_wing",
+        "edshipyard_affenpinscher_wing",
+        "edshipyard_affenpinscher_wing",
+        "edshipyard_affenpinscher_wing",
+        "edshipyard_affenpinscher_wing"
+    ]
+}

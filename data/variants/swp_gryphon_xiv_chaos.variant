@@ -1,0 +1,54 @@
+{
+    "displayName": "Chaos",
+    "fluxCapacitors": 0,
+    "fluxVents": 2,
+    "hullId": "swp_gryphon_xiv",
+    "hullMods": [
+        "converted_hangar",
+        "eccm"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "swp_gryphon_xiv_chaos",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 001": "SCY_singularity"}
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 008": "diableavionics_thunderboltpod",
+                "WS 009": "diableavionics_thunderboltpod"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 010": "diableavionics_micromissile",
+                "WS 011": "diableavionics_micromissile",
+                "WS 012": "diableavionics_micromissile"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 002": "med_frag_mg"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "diableavionics_ibis",
+                "WS 004": "diableavionics_ibis",
+                "WS 005": "diableavionics_ibis",
+                "WS 006": "diableavionics_ibis",
+                "WS 007": "diableavionics_ibis"
+            }
+        }
+    ],
+    "wings": ["LTA_DiademTB_Wing"]
+}

@@ -1,0 +1,20 @@
+{
+    "player": {
+        "prefix": "ugg",
+        "name": "test",
+        "tag": "nooo"
+    },
+    "officers": [{
+        "skills": [
+            "missile_specialization",
+            "target_analysis",
+            "combat_endurance"
+        ],
+        "firstName": "FirstN",
+        "lastName": "LastN",
+        "personality": "steady",
+        "ship": "Ship1",
+        "isFemale": true,
+        "portrait": "graphics/portraits/player403_officer.png"
+    }]
+}

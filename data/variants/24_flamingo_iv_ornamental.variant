@@ -1,0 +1,52 @@
+{
+    "displayName": "Ornamental",
+    "fluxCapacitors": 22,
+    "fluxVents": 10,
+    "hullId": "drg_flamingo_iv",
+    "hullMods": [
+        "eccm",
+        "frontemitter",
+        "missleracks"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "24_flamingo_iv_ornamental",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0011": "SCY_laser3"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0002": "edshipyard_FL3"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0001": "gravitonbeam"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "SCY_lvds",
+                "WS0004": "SCY_lvds",
+                "WS0005": "lrpdlaser",
+                "WS0006": "lrpdlaser",
+                "WS0007": "lrpdlaser",
+                "WS0008": "lrpdlaser"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0010": "diableavionics_magicbox",
+                "WS0012": "diableavionics_magicbox",
+                "WS0013": "diableavionics_magicbox"
+            }
+        }
+    ]
+}

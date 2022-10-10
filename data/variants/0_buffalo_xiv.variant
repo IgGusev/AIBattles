@@ -1,0 +1,38 @@
+{
+    "displayName": "Do u even Daka?",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "vayra_buffalo_xiv",
+    "hullMods": [
+        "converted_hangar",
+        "missleracks"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "0_buffalo_xiv",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 005": "harpoon"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 006": "harpoon"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "SCY_intercept",
+                "WS 003": "SCY_intercept",
+                "WS 004": "ii_smallballista",
+                "WS 007": "ii_smallballista",
+                "WS 008": "istl_calliope"
+            }
+        }
+    ],
+    "wings": ["istl_lycosid_wing"]
+}

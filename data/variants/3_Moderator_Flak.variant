@@ -1,0 +1,58 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 21,
+    "fluxVents": 30,
+    "hullId": "LTA_Moderator",
+    "hullMods": [
+        "targetingunit",
+        "autorepair",
+        "heavyarmor",
+        "stabilizedshieldemitter"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "3_Moderator_Flak",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0007": "mark9"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0008": "hellbore"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0005": "sabotpod"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0009": "LTA_nixiearray"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0010": "LTA_nixiearray"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "flak",
+                "WS0002": "flak"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "flak",
+                "WS0004": "flak"
+            }
+        }
+    ]
+}

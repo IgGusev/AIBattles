@@ -1,0 +1,27 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 0,
+    "fluxVents": 10,
+    "hullId": "hound_hegemony",
+    "hullMods": [
+        "vic_PDArcEmitter",
+        "reinforcedhull",
+        "solar_shielding",
+        "auxiliarythrusters"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "5_Hounda_Nixie",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 002": "lightmortar"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 001": "LTA_nixietri"}
+        }
+    ]
+}

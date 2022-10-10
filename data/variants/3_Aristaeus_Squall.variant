@@ -1,0 +1,30 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 13,
+    "fluxVents": 7,
+    "hullId": "CWSP_aristaeus",
+    "hullMods": [
+        "missleracks",
+        "eccm"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "3_Aristaeus_Squall",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0002": "vic_vila"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0005": "squall"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0001": "diableavionics_lazyhorn"}
+        }
+    ]
+}

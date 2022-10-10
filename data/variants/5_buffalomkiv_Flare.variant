@@ -1,0 +1,38 @@
+{
+    "displayName": "Flared",
+    "fluxCapacitors": 12,
+    "fluxVents": 6,
+    "hullId": "fluffships_buffalomkiv",
+    "hullMods": ["eccm"],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "5_buffalomkiv_Flare",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0002y": "swp_contender"}
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0004": "hammerrack",
+                "WS0005": "hammerrack"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0001": "lightac"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0002": "swp_flaregun",
+                "WS0003": "swp_flaregun"
+            }
+        }
+    ]
+}

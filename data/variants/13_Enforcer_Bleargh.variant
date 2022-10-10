@@ -1,0 +1,38 @@
+{
+    "hullId": "LTA_Enforcer_Thunderbirds",
+    "fluxCapacitors": 12,
+    "weaponGroups": [
+        {
+            "mode": "ALTERNATING",
+            "autofire": false,
+            "weapons": {
+                "WS 008": "reaper",
+                "WS 009": "reaper",
+                "WS 006": "reaper",
+                "WS 007": "reaper"
+            }
+        },
+        {
+            "mode": "LINKED",
+            "autofire": true,
+            "weapons": {
+                "WS 004": "lightneedler",
+                "WS 005": "flak",
+                "WS 002": "lightneedler",
+                "WS 001": "flak"
+            }
+        },
+        {
+            "mode": "LINKED",
+            "autofire": false,
+            "weapons": {"WS 003": "LTA_hex"}
+        }
+    ],
+    "displayName": "Artillery",
+    "wings": ["wasp_wing"],
+    "fluxVents": 20,
+    "hullMods": ["converted_hangar"],
+    "permaMods": [],
+    "variantId": "13_Enforcer_Bleargh",
+    "sMods": []
+}

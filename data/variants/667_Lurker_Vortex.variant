@@ -1,0 +1,54 @@
+{
+    "displayName": "Vortex",
+    "fluxCapacitors": 35,
+    "fluxVents": 0,
+    "hullId": "LTA_Epattcudxviii",
+    "hullMods": [
+        "targetingunit",
+        "eccm",
+        "SCY_reactiveArmor",
+        "heavyarmor"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "667_Lurker_Vortex",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0012": "SCY_singularity",
+                "WS0013": "SCY_singularity"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0020": "swp_tornado",
+                "WS0021": "swp_tornado"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0001": "vic_tugarin"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0002": "hmi_heavy_assault_launcher",
+                "WS0003": "hmi_heavy_assault_launcher"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0004": "dualflak",
+                "WS0005": "dualflak"
+            }
+        }
+    ]
+}

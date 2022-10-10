@@ -1,0 +1,21 @@
+{
+    "displayName": "Moth",
+    "fluxCapacitors": 6,
+    "fluxVents": 0,
+    "hullId": "vic_nybbas",
+    "hullMods": [
+        "advancedoptics",
+        "targetingunit",
+        "hardened_subsystems",
+        "magazines",
+        "heavyarmor"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "667_Nybbas_Beam",
+    "weaponGroups": [{
+        "autofire": false,
+        "mode": "LINKED",
+        "weapons": {"WS0002t": "SCY_scpb"}
+    }]
+}

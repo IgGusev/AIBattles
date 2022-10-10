@@ -1,0 +1,36 @@
+{
+    "hullId": "SCY_manticore",
+    "fluxCapacitors": 0,
+    "weaponGroups": [
+        {
+            "mode": "LINKED",
+            "autofire": true,
+            "weapons": {
+                "WS0003": "vulcan",
+                "WS0004": "vulcan"
+            }
+        },
+        {
+            "mode": "LINKED",
+            "autofire": false,
+            "weapons": {"WS0001": "SCY_singularity"}
+        },
+        {
+            "mode": "LINKED",
+            "autofire": true,
+            "weapons": {"WS0002": "SCY_intercept"}
+        }
+    ],
+    "displayName": "Fingers",
+    "wings": [
+        "drg_khanjali_wing",
+        "drg_kaskara_wing",
+        "broadsword_wing"
+    ],
+    "fluxVents": 2,
+    "hullMods": ["eccm"],
+    "permaMods": [],
+    "variantId": "43_SCY_Manticore_Fingers",
+    "goalVariant": true,
+    "sMods": []
+}

@@ -1,0 +1,52 @@
+{
+    "displayName": "Kinetic Overload",
+    "fluxCapacitors": 0,
+    "fluxVents": 49,
+    "goalVariant": true,
+    "hullId": "vayra_ziz",
+    "hullMods": [
+        "vayra_secret_buff_hullmod",
+        "targetingunit",
+        "stabilizedshieldemitter",
+        "missleracks",
+        "eccm"
+    ],
+    "permaMods": ["vayra_secret_buff_hullmod"],
+    "sMods": [],
+    "variantId": "0_ziz_ke",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0035": "vayra_spike_battery",
+                "WS0036": "vayra_spike_battery"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0013": "reaper",
+                "WS0014": "reaper"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0005": "gauss"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "vayra_rocket_gun",
+                "WS0002": "vayra_rocket_gun",
+                "WS0003": "vayra_rocket_gun",
+                "WS0004": "vayra_rocket_gun",
+                "WS0038": "vayra_rocket_gun",
+                "WS0039": "vayra_rocket_gun"
+            }
+        }
+    ]
+}

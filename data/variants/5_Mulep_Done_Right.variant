@@ -1,0 +1,29 @@
+{
+    "displayName": "Solved",
+    "fluxCapacitors": 10,
+    "fluxVents": 1,
+    "hullId": "mule_d_pirates",
+    "hullMods": [
+        "converted_hangar",
+        "safetyoverrides"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "5_Mulep_Done_Right",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 003": "SCY_teb"}
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 001": "sabot_single",
+                "WS 002": "sabot_single"
+            }
+        }
+    ],
+    "wings": ["LTA_TalonX_Wing"]
+}

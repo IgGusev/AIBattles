@@ -1,0 +1,80 @@
+{
+    "displayName": "Almond",
+    "fluxCapacitors": 27,
+    "fluxVents": 50,
+    "hullId": "LTA_Consigliere",
+    "hullMods": [
+        "targetingunit",
+        "fluxdistributor"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "9999_LTA_Consigliere_custom",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0021": "vic_tugarin"}
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0009": "LTA_talonrailautomatednixie",
+                "WS0010": "LTA_talonrailautomatednixie",
+                "WS0013": "drg_kneecapper_s",
+                "WS0014": "drg_kneecapper_s",
+                "WS0015": "drg_kneecapper_s",
+                "WS0016": "drg_kneecapper_s"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0011": "swp_plasmaflame",
+                "WS0012": "swp_plasmaflame"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "vic_psotnikmed",
+                "WS0004": "vic_psotnikmed"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "LTA_nixietri",
+                "WS0002": "LTA_nixietri"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0017": "swp_reliant",
+                "WS0018": "swp_reliant",
+                "WS0019": "swp_reliant",
+                "WS0020": "swp_reliant"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0005": "CWSP_medswordbreaker",
+                "WS0006": "CWSP_medswordbreaker",
+                "WS0007": "flak",
+                "WS0008": "flak"
+            }
+        }
+    ],
+    "wings": [
+        "LTA_DiademXIV_Wing",
+        "LTA_DiademXIV_Wing"
+    ]
+}

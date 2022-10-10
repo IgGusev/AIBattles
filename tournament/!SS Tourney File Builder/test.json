@@ -1,0 +1,20 @@
+{
+    "player": {
+        "prefix": "TNH",
+        "name": "Thaago",
+        "tag": "In need of a haircut"
+    },
+    "officers": [{
+        "skills": [
+            "missile_specialization",
+            "target_analysis",
+            "combat_endurance"
+        ],
+        "firstName": "FirstN",
+        "lastName": "LastN",
+        "personality": "steady",
+        "ship": "Caprica",
+        "isFemale": true,
+        "portrait": ""
+    }]
+}

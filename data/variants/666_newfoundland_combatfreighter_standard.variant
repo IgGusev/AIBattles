@@ -1,0 +1,32 @@
+{
+    "displayName": "Combat",
+    "fluxCapacitors": 0,
+    "fluxVents": 27,
+    "goalVariant": true,
+    "hullId": "edshipyard_newfoundland_combatfreighter",
+    "hullMods": [],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "666_newfoundland_combatfreighter_standard",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0001": "diableavionics_lazyhorn",
+                "WS0002": "diableavionics_lazyhorn",
+                "WS0003": "diableavionics_srab",
+                "WS0004": "diableavionics_srab",
+                "WS0005": "diableavionics_srab",
+                "WS0006": "diableavionics_srab",
+                "WS0009": "LTA_nixiemissilesmall"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0010": "LTA_nixiemissilesmall"}
+        }
+    ],
+    "wings": ["wasp_wing"]
+}

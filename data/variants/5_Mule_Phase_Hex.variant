@@ -1,0 +1,33 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 13,
+    "fluxVents": 11,
+    "hullId": "CWSP_mule_phase",
+    "hullMods": [
+        "armoredweapons",
+        "hardened_subsystems"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "5_Mule_Phase_Hex",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0001": "diableavionics_hexafire"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0002": "ioncannon",
+                "WS0003": "ioncannon"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0004": "pdburst"}
+        }
+    ]
+}

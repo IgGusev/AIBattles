@@ -1,0 +1,15 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 3,
+    "fluxVents": 10,
+    "hullId": "LTA_Mudskipper_mk2_Thunderbirds",
+    "hullMods": ["reinforcedhull"],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "5_Mudskipper2TB_RandomStuffGo",
+    "weaponGroups": [{
+        "autofire": false,
+        "mode": "LINKED",
+        "weapons": {"WS 002": "vic_psotnik"}
+    }]
+}

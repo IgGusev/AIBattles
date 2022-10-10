@@ -1,0 +1,48 @@
+{
+    "displayName": "Ligitimate Salvage",
+    "fluxCapacitors": 0,
+    "fluxVents": 16,
+    "hullId": "LTA_Epattcudxix_Thunderbirds",
+    "hullMods": ["missleracks"],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "5_ExixTB_Breaker",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0009": "heavyac"}
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0002": "annihilatorpod",
+                "WS0003": "annihilatorpod"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0010": "vic_lightlaidlawaccelerator"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "lightac",
+                "WS0008": "lightac"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0004": "vic_strigoy",
+                "WS0005": "vic_strigoy",
+                "WS0006": "vic_strigoy",
+                "WS0007": "vic_strigoy"
+            }
+        }
+    ]
+}

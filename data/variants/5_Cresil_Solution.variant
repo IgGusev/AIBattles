@@ -1,0 +1,49 @@
+{
+    "displayName": "Warcrimes",
+    "fluxCapacitors": 4,
+    "fluxVents": 0,
+    "hullId": "vic_cresil",
+    "hullMods": ["expanded_deck_crew"],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "5_Cresil_Solution",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0001": "vic_psotnikmed"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0002": "diableavionics_artdeux"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0011": "vic_targetingLazer"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0005": "pdlaser",
+                "WS0006": "pdlaser"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "lrpdlaser",
+                "WS0004": "lrpdlaser"
+            }
+        }
+    ],
+    "wings": [
+        "vic_uvall_wing",
+        "vic_uvall_wing",
+        "vic_uvall_wing",
+        "vic_uvall_wing"
+    ]
+}

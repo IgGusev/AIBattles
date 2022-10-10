@@ -1,0 +1,29 @@
+{
+    "displayName": "Heavily Modified",
+    "fluxCapacitors": 10,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "LTA_Epattcudxx",
+    "hullMods": [
+        "heavyarmor",
+        "reinforcedhull",
+        "vic_PDArcEmitter",
+        "hardened_subsystems",
+        "autorepair"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "666_Epattcudxx_Heavilymodified",
+    "weaponGroups": [{
+        "autofire": true,
+        "mode": "ALTERNATING",
+        "weapons": {
+            "WS0001": "vulcan",
+            "WS0002": "vulcan",
+            "WS0003": "vulcan",
+            "WS0004": "vulcan",
+            "WS0005": "typhoon",
+            "WS0014": "sabot"
+        }
+    }]
+}

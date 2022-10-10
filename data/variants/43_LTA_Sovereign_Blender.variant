@@ -1,0 +1,90 @@
+{
+    "hullId": "LTA_Sovereign",
+    "fluxCapacitors": 31,
+    "weaponGroups": [
+        {
+            "mode": "LINKED",
+            "autofire": false,
+            "weapons": {"WS0030": "LTA_otamay"}
+        },
+        {
+            "mode": "LINKED",
+            "autofire": false,
+            "weapons": {
+                "WS0023": "LTA_nixiemissilesmall",
+                "WS0022": "LTA_nixiemissilesmall",
+                "WS0025": "LTA_nixiemissilesmall",
+                "WS0024": "LTA_nixiemissilesmall",
+                "WS0021": "LTA_nixiemissilesmall",
+                "WS0020": "LTA_nixiemissilesmall",
+                "WS0027": "LTA_nixiemissilesmall",
+                "WS0026": "LTA_nixiemissilesmall"
+            }
+        },
+        {
+            "mode": "LINKED",
+            "autofire": false,
+            "weapons": {
+                "WS0001": "edshipyard_GS3",
+                "WS0002": "edshipyard_GS3"
+            }
+        },
+        {
+            "mode": "LINKED",
+            "autofire": true,
+            "weapons": {
+                "WS0003": "vic_psotnikmed",
+                "WS0005": "vic_psotnikmed",
+                "WS0004": "vic_psotnikmed",
+                "WS0006": "vic_psotnikmed"
+            }
+        },
+        {
+            "mode": "LINKED",
+            "autofire": true,
+            "weapons": {"WS0013": "rad_gun"}
+        },
+        {
+            "mode": "ALTERNATING",
+            "autofire": true,
+            "weapons": {
+                "WS0032": "diableavionics_magicbox",
+                "WS0031": "diableavionics_magicbox"
+            }
+        },
+        {
+            "mode": "LINKED",
+            "autofire": true,
+            "weapons": {
+                "WS0012": "flak",
+                "WS0011": "flak",
+                "WS0014": "vulcan",
+                "WS0010": "pumm_mg",
+                "WS0009": "pumm_mg",
+                "WS0008": "flak",
+                "WS0019": "vulcan",
+                "WS0016": "vulcan",
+                "WS0015": "vulcan",
+                "WS0007": "flak",
+                "WS0018": "vulcan",
+                "WS0029": "diableavionics_ibis",
+                "WS0017": "vulcan",
+                "WS0028": "diableavionics_ibis"
+            }
+        }
+    ],
+    "displayName": "Blender",
+    "wings": [
+        "wasp_wing",
+        "wasp_wing"
+    ],
+    "fluxVents": 50,
+    "hullMods": [
+        "targetingunit",
+        "heavyarmor"
+    ],
+    "permaMods": [],
+    "variantId": "43_LTA_Sovereign_Blender",
+    "goalVariant": true,
+    "sMods": []
+}

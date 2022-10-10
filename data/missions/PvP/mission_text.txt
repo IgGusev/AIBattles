@@ -1,0 +1,22 @@
+   Starsector 2018 Tournament,
+
+
+Hold the left or right arrow while clicking on the mission to cycle through the various matches.
+
+Press the RIGHT "Control" key during the battle to switch between Free-Cam modes.
+
+In Free-cam mode you no longer need to jump from ship to ship to watch the battle, the camera is completely free.
+In Free-cam mode you can zoom in and out using the left and right clicks.
+   Absolute Free-Cam directly ties the cam to your mouse movements.
+   Drag Free-Cam smoothly pans the camera in the direction of your mouse.
+
+Press any "Alt" key to disable the Free-Cam and return to the stock camera.
+
+Hold the LEFT "Shift" key during the battle to speedup time (only work from the tactical view when not in Free-cam mode).
+Hold the LEFT "Control" to slow down time.
+
+In case of AI problem, 
+Hold the Z key to move a targeted ship to the cursor (only works when paused)
+Hold the X key to orient a targeted ship to the cursor (only works when paused)
+
+After 420 seconds, the fog of war will be lifted and all ships will become reckless.

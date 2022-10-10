@@ -1,0 +1,28 @@
+{
+    "hullId": "monitor",
+    "fluxCapacitors": 6,
+    "weaponGroups": [
+        {
+            "mode": "LINKED",
+            "autofire": true,
+            "weapons": {
+                "WS 004": "diableavionics_magicbox",
+                "WS 003": "diableavionics_magicbox"
+            }
+        },
+        {
+            "mode": "LINKED",
+            "autofire": true,
+            "weapons": {
+                "WS 002": "flak",
+                "WS 001": "flak"
+            }
+        }
+    ],
+    "displayName": "Defense",
+    "fluxVents": 10,
+    "hullMods": ["extendedshieldemitter"],
+    "permaMods": [],
+    "variantId": "player21_Monitor",
+    "sMods": []
+}

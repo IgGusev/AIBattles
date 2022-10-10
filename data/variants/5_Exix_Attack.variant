@@ -1,0 +1,45 @@
+{
+    "displayName": "Rushed",
+    "fluxCapacitors": 0,
+    "fluxVents": 19,
+    "hullId": "LTA_Epattcudxix",
+    "hullMods": [
+        "autorepair",
+        "fluxbreakers"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "5_Exix_Attack",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0003": "vic_nawia"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0002": "heavymauler"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0001": "vic_laidlawMassDriver"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0009": "phasecl"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0004": "vulcan",
+                "WS0005": "vulcan",
+                "WS0006": "vulcan",
+                "WS0007": "vulcan"
+            }
+        }
+    ]
+}

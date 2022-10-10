@@ -1,0 +1,50 @@
+{
+    "displayName": "RandomStuffGo",
+    "fluxCapacitors": 3,
+    "fluxVents": 10,
+    "hullId": "LTA_Buffalo_mk2_Thunderbirds",
+    "hullMods": ["frontshield"],
+    "modules": [{"WS0002": "5_Mudskipper2TB_RandomStuffGo"}],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "5_Buffalo2TB_RandomStuffGo",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 008": "sabotpod"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0001": "SCY_minigun2"}
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 004": "swp_hornet",
+                "WS 005": "swp_hornet",
+                "WS 006": "swp_hornet"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 007": "drg_kneecapper_s"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 001": "pdlaser"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "vulcan",
+                "WS 003": "vulcan"
+            }
+        }
+    ]
+}

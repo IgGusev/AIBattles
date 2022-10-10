@@ -1,0 +1,31 @@
+{
+    "hullId": "omen",
+    "fluxCapacitors": 9,
+    "weaponGroups": [
+        {
+            "mode": "LINKED",
+            "autofire": false,
+            "weapons": {"WS 001": "amblaster"}
+        },
+        {
+            "mode": "LINKED",
+            "autofire": false,
+            "weapons": {"WS 003": "reaper"}
+        },
+        {
+            "mode": "LINKED",
+            "autofire": true,
+            "weapons": {"WS 002": "pdburst"}
+        }
+    ],
+    "displayName": "EW",
+    "fluxVents": 3,
+    "hullMods": [
+        "auxiliarythrusters",
+        "hardenedshieldemitter"
+    ],
+    "permaMods": [],
+    "variantId": "13_Omen_Decent",
+    "goalVariant": true,
+    "sMods": []
+}

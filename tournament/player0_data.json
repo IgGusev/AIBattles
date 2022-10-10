@@ -1,0 +1,20 @@
+{
+    "player": {
+        "prefix": "",
+        "name": "Missile Spam",
+        "tag": ""
+    },
+    "officers": [
+      "skills": [
+          "missile_specialization",
+          "target_analysis",
+          "field_modulation"
+      ],
+      "firstName": "HAL9000",
+      "lastName": "_",
+      "personality": "reckless",
+      "ship": "HAL9000",
+      "isFemale": true,
+      "portrait": ""
+	]
+}

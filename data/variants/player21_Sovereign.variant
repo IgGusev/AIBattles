@@ -1,0 +1,92 @@
+{
+    "hullId": "LTA_Sovereign",
+    "fluxCapacitors": 27,
+    "weaponGroups": [
+        {
+            "mode": "LINKED",
+            "autofire": false,
+            "weapons": {"WS0030": "LTA_otamay"}
+        },
+        {
+            "mode": "ALTERNATING",
+            "autofire": false,
+            "weapons": {
+                "WS0023": "LTA_nixiemissilesmall",
+                "WS0022": "LTA_nixiemissilesmall",
+                "WS0025": "LTA_nixiemissilesmall",
+                "WS0024": "LTA_nixiemissilesmall",
+                "WS0027": "LTA_nixiemissilesmall",
+                "WS0026": "LTA_nixiemissilesmall"
+            }
+        },
+        {
+            "mode": "LINKED",
+            "autofire": true,
+            "weapons": {
+                "WS0001": "hellbore",
+                "WS0002": "hellbore"
+            }
+        },
+        {
+            "mode": "ALTERNATING",
+            "autofire": true,
+            "weapons": {
+                "WS0032": "diableavionics_magicbox",
+                "WS0031": "diableavionics_magicbox"
+            }
+        },
+        {
+            "mode": "ALTERNATING",
+            "autofire": true,
+            "weapons": {
+                "WS0021": "diableavionics_magicbox",
+                "WS0020": "diableavionics_magicbox"
+            }
+        },
+        {
+            "mode": "LINKED",
+            "autofire": true,
+            "weapons": {
+                "WS0012": "flak",
+                "WS0011": "flak",
+                "WS0014": "LTA_nixie",
+                "WS0010": "flak",
+                "WS0009": "flak",
+                "WS0008": "flak",
+                "WS0019": "LTA_nixie",
+                "WS0016": "LTA_nixie",
+                "WS0015": "LTA_nixie",
+                "WS0007": "flak",
+                "WS0018": "LTA_nixie",
+                "WS0029": "vulcan",
+                "WS0017": "LTA_nixie",
+                "WS0028": "vulcan"
+            }
+        },
+        {
+            "mode": "LINKED",
+            "autofire": true,
+            "weapons": {
+                "WS0003": "LTA_nixietri",
+                "WS0013": "diableavionics_lazyhorn",
+                "WS0005": "LTA_nixietri",
+                "WS0004": "LTA_nixietri",
+                "WS0006": "LTA_nixietri"
+            }
+        }
+    ],
+    "displayName": "Starscourge",
+    "wings": [
+        "diableavionics_warlust_wing",
+        "diableavionics_warlust_wing"
+    ],
+    "fluxVents": 50,
+    "hullMods": [
+        "targetingunit",
+        "pointdefenseai",
+        "auxiliarythrusters"
+    ],
+    "permaMods": [],
+    "variantId": "player21_Sovereign",
+    "sMods": []
+}

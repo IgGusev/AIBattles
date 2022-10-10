@@ -1,0 +1,78 @@
+{
+    "displayName": "Juggernaut",
+    "fluxCapacitors": 31,
+    "fluxVents": 50,
+    "hullId": "onslaught_xiv",
+    "hullMods": [
+        "auxiliarythrusters",
+        "fluxdistributor",
+        "targetingunit",
+        "pointdefenseai",
+        "fluxbreakers",
+        "armoredweapons",
+        "turretgyros"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "TAG_XIVO_I1",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 016": "tpc",
+                "WS 017": "tpc"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 021": "typhoon",
+                "WS 022": "typhoon",
+                "WS 023": "typhoon",
+                "WS 024": "typhoon"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 018": "mark9",
+                "WS 020": "mark9"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 019": "hephag"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "vulcan",
+                "WS 004": "vulcan",
+                "WS 005": "vulcan",
+                "WS 006": "vulcan",
+                "WS 007": "flak",
+                "WS 008": "vulcan",
+                "WS 009": "vulcan",
+                "WS 010": "flak",
+                "WS 011": "flak",
+                "WS 012": "flak",
+                "WS 013": "flak",
+                "WS 014": "lightag",
+                "WS 015": "lightac"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "heavymg",
+                "WS 003": "heavymg"
+            }
+        }
+    ]
+}

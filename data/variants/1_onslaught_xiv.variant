@@ -1,0 +1,81 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 0,
+    "fluxVents": 50,
+    "hullId": "onslaught_xiv",
+    "hullMods": [
+        "auxiliarythrusters",
+        "fluxdistributor",
+        "pointdefenseai",
+        "targetingunit",
+        "armoredweapons",
+        "fluxbreakers",
+        "turretgyros",
+        "reinforcedhull"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "1_onslaught_xiv",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 016": "tpc"}
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 021": "pilum",
+                "WS 022": "pilum",
+                "WS 023": "pilum",
+                "WS 024": "pilum"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 019": "mark9"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 012": "heavymauler",
+                "WS 013": "heavymauler"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 014": "heavymg",
+                "WS 015": "heavymg"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "flak",
+                "WS 002": "vulcan",
+                "WS 003": "flak",
+                "WS 004": "vulcan",
+                "WS 005": "vulcan",
+                "WS 006": "vulcan",
+                "WS 007": "flak",
+                "WS 008": "vulcan",
+                "WS 009": "vulcan",
+                "WS 010": "flak",
+                "WS 011": "flak",
+                "WS 018": "flak",
+                "WS 020": "flak"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 017": "tpc"}
+        }
+    ]
+}

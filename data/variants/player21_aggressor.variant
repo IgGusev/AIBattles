@@ -1,0 +1,64 @@
+{
+    "hullId": "drg_aggressor",
+    "fluxCapacitors": 3,
+    "weaponGroups": [
+        {
+            "mode": "LINKED",
+            "autofire": false,
+            "weapons": {
+                "WS0019": "tpc",
+                "WS0018": "tpc"
+            }
+        },
+        {
+            "mode": "ALTERNATING",
+            "autofire": false,
+            "weapons": {
+                "WS0005": "sabotpod",
+                "WS0004": "sabotpod"
+            }
+        },
+        {
+            "mode": "LINKED",
+            "autofire": true,
+            "weapons": {"WS0020": "hmi_heavy_assault_launcher"}
+        },
+        {
+            "mode": "ALTERNATING",
+            "autofire": true,
+            "weapons": {
+                "WS0016": "SCY_anti2",
+                "WS0017": "SCY_anti2"
+            }
+        },
+        {
+            "mode": "LINKED",
+            "autofire": true,
+            "weapons": {
+                "WS0001": "LTA_nixie",
+                "WS0012": "LTA_nixie",
+                "WS0011": "LTA_nixie",
+                "WS0003": "LTA_nixie",
+                "WS0014": "vulcan",
+                "WS0002": "LTA_nixie",
+                "WS0013": "LTA_nixie",
+                "WS0010": "LTA_nixie",
+                "WS0009": "LTA_nixie",
+                "WS0008": "LTA_nixie",
+                "WS0015": "vulcan",
+                "WS0007": "vulcan",
+                "WS0006": "vulcan"
+            }
+        }
+    ],
+    "displayName": "Attack",
+    "fluxVents": 50,
+    "hullMods": [
+        "targetingunit",
+        "pointdefenseai",
+        "magazines"
+    ],
+    "permaMods": [],
+    "variantId": "player21_Aggressor",
+    "sMods": []
+}

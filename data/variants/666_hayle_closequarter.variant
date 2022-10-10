@@ -1,0 +1,43 @@
+{
+    "displayName": "Close Quarter",
+    "fluxCapacitors": 0,
+    "fluxVents": 17,
+    "goalVariant": true,
+    "hullId": "diableavionics_hayle",
+    "hullMods": [
+        "heavyarmor",
+        "advancedshieldemitter"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "666_hayle_closequarter",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0008": "diableavionics_recson2"}
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0001": "LTA_nixiemissilesmall",
+                "WS0002": "LTA_nixiemissilesmall",
+                "WS0003": "LTA_nixiemissilesmall",
+                "WS0004": "LTA_nixiemissilesmall",
+                "WS0005": "LTA_nixiemissilesmall",
+                "WS0006": "LTA_nixiemissilesmall"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0009": "heavymauler"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0007": "diableavionics_lazyhorn"}
+        }
+    ]
+}

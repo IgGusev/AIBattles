@@ -1,0 +1,65 @@
+{
+    "displayName": "!!Chance To!!",
+    "fluxCapacitors": 0,
+    "fluxVents": 41,
+    "hullId": "LTA_Epattcudvi_Thunderbirds",
+    "hullMods": [
+        "targetingunit",
+        "missleracks",
+        "eccm",
+        "turretgyros"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "1997_LTA_Epattcudvi_Thunderbirds_StoogeCHANCETO",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0005": "LTA_portablebaypiranha",
+                "WS0006": "LTA_portablebaypiranha",
+                "WS0021": "flak"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0007": "LTA_annihilatorbuiltinmitigator",
+                "WS0008": "LTA_annihilatorbuiltinmitigator",
+                "WS0022": "flak"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0017": "LTA_hex",
+                "WS0018": "LTA_hex"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0015": "swp_reliant",
+                "WS0016": "SCY_laser2",
+                "WS0019": "SCY_laser2",
+                "WS0020": "SCY_laser2"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "phasecl",
+                "WS0002": "phasecl"
+            }
+        }
+    ],
+    "wings": [
+        "LTA_DiademTB_Wing",
+        "LTA_DiademTB_Wing"
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "displayName": "Fire Support",
+    "fluxCapacitors": 0,
+    "fluxVents": 5,
+    "goalVariant": true,
+    "hullId": "legion",
+    "hullMods": [
+        "missleracks",
+        "eccm",
+        "targetingunit",
+        "ugh_thrushwarheads",
+        "ugh_spongearmor"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "0_legion_ark",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "hmi_heavy_assault_launcher",
+                "WS 001": "hmi_heavy_assault_launcher"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "filgap_ion_torpedo",
+                "WS 003": "filgap_ion_torpedo",
+                "WS 004": "filgap_ion_torpedo",
+                "WS 005": "filgap_ion_torpedo",
+                "WS 007": "filgap_ion_torpedo",
+                "WS 020": "swp_reliant",
+                "WS 021": "swp_reliant"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 008": "tahlan_hueter"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 009": "tahlan_hueter"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 014": "tahlan_hueter"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 015": "tahlan_hueter"}
+        }
+    ],
+    "wings": [
+        "scandunt_mess_wing",
+        "scandunt_mess_wing",
+        "edshipyard_terrier_wing",
+        "edshipyard_terrier_wing"
+    ]
+}

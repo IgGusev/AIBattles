@@ -1,0 +1,48 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 29,
+    "fluxVents": 50,
+    "hullId": "edshipyard_dobermann",
+    "hullMods": [],
+    "modules": [
+        {"M004": "9851_dobermann_module"},
+        {"M003": "9851_dobermann_module"},
+        {"M002": "9851_dobermann_module"},
+        {"M001": "9851_dobermann_module"}
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "9851_dobermann",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "gauss",
+                "WS0002": "vic_heavylaidlawaccelerator",
+                "WS0003": "vic_heavylaidlawaccelerator"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0004": "SCY_minigun1",
+                "WS0005": "SCY_minigun1",
+                "WS0006": "SCY_minigun1",
+                "WS0007": "SCY_minigun1",
+                "WS0008": "SCY_minigun1"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0009": "SCY_minigun1",
+                "WS0010": "SCY_minigun1",
+                "WS0011": "dualflak",
+                "WS0012": "dualflak"
+            }
+        }
+    ]
+}

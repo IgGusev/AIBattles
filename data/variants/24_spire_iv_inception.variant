@@ -1,0 +1,50 @@
+{
+    "displayName": "Inception",
+    "fluxCapacitors": 25,
+    "fluxVents": 50,
+    "hullId": "drg_spire_iv",
+    "hullMods": [
+        "targetingunit",
+        "ecm"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "24_spire_iv_inception",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0015": "squall"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "drg_tpr_m",
+                "WS0004": "drg_tpr_m",
+                "WS0005": "drg_tpr_m",
+                "WS0006": "drg_tpr_m"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0013": "hil"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0011": "SCY_lvds",
+                "WS0012": "SCY_lvds",
+                "WS0014": "drg_arc_l"
+            }
+        }
+    ],
+    "wings": [
+        "vic_uvall_wing",
+        "vic_uvall_wing",
+        "vic_uvall_wing",
+        "LTA_DiademXIV_Wing"
+    ]
+}

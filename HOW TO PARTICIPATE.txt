@@ -1,0 +1,7 @@
+Everything you need is located in starsector/mods/AI Battles/tournament
+
+1. Using the SS tourney fleet builder, create a player file. You'll need to fill all fields and have one officer to save it. Player files MUST follow the template playerX_data.json where X is your player number found on the score sheet.
+
+2. Using the SS tourney fleet builder, create a fleet file. Fleet files MUST follow the template playerX_fleet.csv. Fist start by loading default variants until you have reached your fleet cost. Once that is set in stone you can change the variants until you are satisfied with them. Please note that you do not need to restart the game while building your fleet. You can simply refresh the mission to update your fleet.
+
+3. (this part hopefully will be automated in the future) You then have to extract the variants from the save file. In starsector/saves/missions/PvP you will find all the modified variants for the ships in your fleet. You have to copy those variants over to starsector/mods/AI Battles/data/variants/[your name/number], rename them using a prefix, and in every file change the "variantId" line to a unique id. You should then delete the variants in the save folder to prevent them from overwriting anything. Finally using the fleet builder app you should rebuild your fleet using the new modified variants.

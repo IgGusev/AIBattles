@@ -1,0 +1,34 @@
+{
+    "displayName": "Spam",
+    "fluxCapacitors": 5,
+    "fluxVents": 0,
+    "hullId": "mess_ecstacy",
+    "hullMods": ["missleracks"],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "403_ecstacy_x",
+    "weaponGroups": [{
+        "autofire": false,
+        "mode": "LINKED",
+        "weapons": {
+            "WS0001": "annihilatorpod",
+            "WS0002": "annihilatorpod",
+            "WS0003": "sabotpod",
+            "WS0004": "sabotpod",
+            "WS0005": "seth_sml",
+            "WS0006": "seth_sml",
+            "WS0008": "lightdualmg",
+            "WS0009": "railgun",
+            "WS0010": "railgun",
+            "WS0011": "annihilator",
+            "WS0012": "annihilator",
+            "WS0013": "annihilator",
+            "WS0014": "annihilator",
+            "WS0015": "locust"
+        }
+    }],
+    "wings": [
+        "mess_flash_wing",
+        "mess_flash_wing"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "displayName": "Attacker",
+    "fluxCapacitors": 17,
+    "fluxVents": 0,
+    "hullId": "edshipyard_doog",
+    "hullMods": [
+        "hardened_subsystems",
+        "vic_PDArcEmitter",
+        "missleracks",
+        "reinforcedhull",
+        "blast_doors",
+        "insulatedengine"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "02_Ark_doog",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "diableavionics_recson2",
+                "WS 002": "diableavionics_recson2"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 011": "typhoon",
+                "WS 012": "typhoon"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "drg_kneecapper_s",
+                "WS0002": "drg_kneecapper_s"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"BARK": "edshipyard_LOUDBARKS"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "edshipyard_Fragbombs",
+                "WS0004": "edshipyard_Fragbombs",
+                "WS0005": "edshipyard_Fragbombs",
+                "WS0006": "edshipyard_Fragbombs",
+                "WS0007": "edshipyard_Fragbombs",
+                "WS0008": "edshipyard_Fragbombs"
+            }
+        }
+    ]
+}

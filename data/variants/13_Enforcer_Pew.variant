@@ -1,0 +1,40 @@
+{
+    "hullId": "LTA_Enforcer_Thunderbirds",
+    "fluxCapacitors": 18,
+    "weaponGroups": [
+        {
+            "mode": "LINKED",
+            "autofire": true,
+            "weapons": {"WS 003": "swp_tripleflak"}
+        },
+        {
+            "mode": "ALTERNATING",
+            "autofire": false,
+            "weapons": {
+                "WS 008": "reaper",
+                "WS 009": "reaper",
+                "WS 006": "reaper",
+                "WS 007": "reaper"
+            }
+        },
+        {
+            "mode": "LINKED",
+            "autofire": true,
+            "weapons": {
+                "WS 004": "swp_flaregun",
+                "WS 005": "hveldriver",
+                "WS 002": "swp_flaregun",
+                "WS 001": "hveldriver"
+            }
+        }
+    ],
+    "displayName": "Artillery",
+    "fluxVents": 20,
+    "hullMods": [
+        "targetingunit",
+        "heavyarmor"
+    ],
+    "permaMods": [],
+    "variantId": "13_Enforcer_Pew",
+    "sMods": []
+}

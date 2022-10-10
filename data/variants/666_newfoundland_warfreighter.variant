@@ -1,0 +1,58 @@
+{
+    "displayName": "War Freighter",
+    "fluxCapacitors": 0,
+    "fluxVents": 39,
+    "goalVariant": true,
+    "hullId": "edshipyard_newfoundland",
+    "hullMods": [
+        "unstable_injector",
+        "SCY_lightArmor"
+    ],
+    "modules": [
+        {"SEGMENT5": "666_newfoundland_combatfreighter_standard"},
+        {"SEGMENT4": "666_newfoundland_combatfreighter_standard"},
+        {"SEGMENT3": "666_newfoundland_combatfreighter_standard"},
+        {"SEGMENT2": "666_newfoundland_combatfreighter_standard"},
+        {"SEGMENT1": "666_newfoundland_combatfreighter_standard"}
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "666_newfoundland_warfreighter",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0005": "diableavionics_srab",
+                "WS0006": "diableavionics_srab",
+                "WS0007": "SCY_singularity"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0008": "LTA_nixiemissilesmall",
+                "WS0009": "LTA_nixiemissilesmall",
+                "WS0010": "LTA_nixiemissilesmall",
+                "WS0011": "LTA_nixiemissilesmall"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "diableavionics_srab",
+                "WS0002": "drg_arc_l"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "drg_arc_l",
+                "WS0004": "diableavionics_srab"
+            }
+        }
+    ]
+}

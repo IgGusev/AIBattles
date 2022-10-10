@@ -1,0 +1,57 @@
+{
+    "displayName": "Guidance",
+    "fluxCapacitors": 20,
+    "fluxVents": 45,
+    "hullId": "prometheus2",
+    "hullMods": [
+        "targetingunit",
+        "magazines"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "5_Prometheus2_Guided",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 031": "SCY_orion"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 019": "squall"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 004": "heavymauler"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 005": "heavymauler"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 032": "guardian"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "vulcan",
+                "WS 003": "vulcan",
+                "WS 006": "vulcan",
+                "WS 012": "vulcan",
+                "WS 013": "vulcan",
+                "WS 014": "vulcan",
+                "WS 015": "vulcan"
+            }
+        }
+    ],
+    "wings": [
+        "longbow_wing",
+        "longbow_wing"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 16,
+    "fluxVents": 16,
+    "hullId": "CWSP_mule_phase_p",
+    "hullMods": ["hardened_subsystems"],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "5_Mule_Phasep_Mortar",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0001": "SCY_hemor2"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "railgun",
+                "WS0004": "railgun"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0002": "diableavionics_ibis"}
+        }
+    ]
+}

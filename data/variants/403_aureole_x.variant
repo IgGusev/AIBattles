@@ -1,0 +1,19 @@
+{
+    "displayName": "Nuisance",
+    "fluxCapacitors": 10,
+    "fluxVents": 0,
+    "hullId": "mess_aureole",
+    "hullMods": ["hardenedshieldemitter"],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "403_aureole_x",
+    "weaponGroups": [{
+        "autofire": false,
+        "mode": "ALTERNATING",
+        "weapons": {
+            "WS0001": "seth_sml",
+            "WS0002": "seth_sml",
+            "WS0004": "seth_sml"
+        }
+    }]
+}

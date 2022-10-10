@@ -1,0 +1,58 @@
+{
+    "displayName": "Escort",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+    "hullId": "falcon_xiv",
+    "hullMods": [
+        "safetyoverrides",
+        "adaptiveshields",
+        "vic_PDArcEmitter"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "666_falcon_so",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 007": "diableavionics_glowtusk"}
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 001": "LTA_nixiemissilesmall",
+                "WS 002": "LTA_nixiemissilesmall"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 008": "heavymg"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "diableavionics_lazyhorn",
+                "WS 006": "diableavionics_lazyhorn"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "edshipyard_Wisp_Launcher",
+                "WS 004": "edshipyard_Wisp_Launcher"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "edshipyard_Wisp_Launcher",
+                "WS 010": "edshipyard_Wisp_Launcher"
+            }
+        }
+    ]
+}
